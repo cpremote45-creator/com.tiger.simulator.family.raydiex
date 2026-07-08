@@ -38,11 +38,11 @@
     },
   
     {
-      "name": "Robot Transform Game",
-      "packageName": "com.robot.transform.car.scorpion.game.fyr",
-      "targetAsin": "B0H3VXY1YN",
-      "storeUrl": "https://www.amazon.com/Super-Transform-Action-Fighting-Missions/dp/B0H3VXY1YN",
-      "rewardedVideoURL": "https://files.catbox.moe/0kfia5.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
     },
     {
       "name": "Dino Hunting",
