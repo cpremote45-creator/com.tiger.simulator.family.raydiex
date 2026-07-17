@@ -2,32 +2,33 @@
   "apps": [
  
     {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "name": "Car Driving Simulator OL",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
+      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
+    },
+  
+    {
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/pqcn0e.mp4"
+    },
+    {
+      "name": "Car Driving Simulator OL",
+      "packageName": "com.dts.car.driving.simulator",
+      "targetAsin": "B0GFNKG9XL",
+      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
       "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
     },
      {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
-    },
-    {
-      "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
-    },
-  {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/yzskuk.mp4"
     },
     {
       "name": "Bike Wheelie",
