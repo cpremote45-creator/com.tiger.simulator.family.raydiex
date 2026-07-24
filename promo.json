@@ -1,6 +1,13 @@
 {
   "apps": [
- 
+    
+ {
+      "name": "Pizza Delivery Sim OL",
+      "packageName": "com.delivery.pidzaa.rydx",
+      "targetAsin": "B0GJ3BDYQ5",
+      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
+      "rewardedVideoURL": "https://files.catbox.moe/x6mgat.mp4"
+    },
     {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
