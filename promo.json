@@ -10,11 +10,33 @@
     },
   
     {
-      "name": "KeyBoard escape Argon",
-      "packageName": "com.arg.airplane.flight.game",
-      "targetAsin": "B0GPDB7Z5K",
-      "storeUrl": "https://www.amazon.com/Airplane-Flight-Simulator-Pilot-Adventure/dp/B0GPDB7Z5K",
-      "rewardedVideoURL": "https://files.catbox.moe/qo641n.mp4"
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+    {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
+    },
+  
+    {
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
+    },
+    {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
     {
       "name": "KeyBoard escape Argon",
