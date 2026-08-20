@@ -2,11 +2,19 @@
   "apps": [
     
  {
-      "name": "KeyBoard escape Argon",
-      "packageName": "com.arg.airplane.flight.game",
-      "targetAsin": "B0GPDB7Z5K",
-      "storeUrl": "https://www.amazon.com/Airplane-Flight-Simulator-Pilot-Adventure/dp/B0GPDB7Z5K",
-      "rewardedVideoURL": "https://files.catbox.moe/sss87h.mp4"
+      "name": "Paint Hide Zombie Inj",
+      "packageName": "com.zombie.slayer.rog.remove.ads",
+      "targetAsin": "B0GQ3264KW",
+      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+  
+    {
+      "name": "Paint Hide Zombie Inj",
+      "packageName": "com.zombie.slayer.rog.remove.ads",
+      "targetAsin": "B0GQ3264KW",
+      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
+      "rewardedVideoURL": "https://files.catbox.moe/b8exnv.mp4"
     },
   
     {
