@@ -1,20 +1,18 @@
 {
   "apps": [
-    
  {
-      "name": "Paint Hide Zombie Inj",
-      "packageName": "com.zombie.slayer.rog.remove.ads",
-      "targetAsin": "B0GQ3264KW",
-      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
-  
     {
-      "name": "Paint Hide Zombie Inj",
-      "packageName": "com.zombie.slayer.rog.remove.ads",
-      "targetAsin": "B0GQ3264KW",
-      "storeUrl": "https://www.amazon.com/dp/B0GQ3264KW",
-      "rewardedVideoURL": "https://files.catbox.moe/b8exnv.mp4"
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
     },
   
     {
@@ -22,7 +20,14 @@
       "packageName": "com.car.racing.midnight.dts",
       "targetAsin": "B0GX34M692",
       "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+      "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
+    },
+    {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
     },
     {
       "name": "Bike Wheelie",
