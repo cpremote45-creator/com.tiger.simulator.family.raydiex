@@ -15,6 +15,13 @@
       "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
       "rewardedVideoURL": "https://files.catbox.moe/rfgca8.mp4"
     },
+    {
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/k2a5hw.mp4"
+    },
   
     {
       "name": "Car Driving Simulator OL",
