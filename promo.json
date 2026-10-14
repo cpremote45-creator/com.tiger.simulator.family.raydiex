@@ -2,18 +2,18 @@
   "apps": [
  
      {
-      "name": "Weeding Dress Makeup",
-      "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
-      "targetAsin": "B07FLD5PS4",
-      "storeUrl": "https://www.amazon.com/Bridal-Makeup-Prince-Wedding-Fashion/dp/B07FLD5PS4",
-      "rewardedVideoURL": "https://files.catbox.moe/xa1ohy.mp4"
+      "name": "Street Gangster OL",
+      "packageName": "com.gangster.crime.game.rog",
+      "targetAsin": "B0FY8FFCZR",
+      "storeUrl": "https://www.amazon.com/Real-Crime-Theft-Shooting-Action/dp/B0FY8FFCZR",
+      "rewardedVideoURL": "https://files.catbox.moe/lajkl3.mp4"
     },
     {
-      "name": "Car Racing",
-      "packageName": "com.dts.car.driving.simulator",
-      "targetAsin": "B0GFNKG9XL",
-      "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
-      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
+      "name": "Football MM",
+      "packageName": "com.footabll.championship.mm",
+      "targetAsin": "B0H54QLYMK",
+      "storeUrl": "https://www.amazon.com/Football-League-Soccer-Championship-Stars/dp/B0H54QLYMK",
+      "rewardedVideoURL": "https://files.catbox.moe/r62dnl.mp4"
     },
   
     {
