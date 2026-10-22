@@ -1,5 +1,12 @@
 {
   "apps": [
+    {
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
  
      {
       "name": "Pizza Delivery Sim OL",
@@ -9,6 +16,13 @@
       "rewardedVideoURL": "https://files.catbox.moe/pqcn0e.mp4"
     },
     {
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
+    },
+    {
       "name": "Car Driving Simulator OL",
       "packageName": "com.dts.car.driving.simulator",
       "targetAsin": "B0GFNKG9XL",
@@ -22,31 +36,14 @@
       "targetAsin": "B0GJ3BDYQ5",
       "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
       "rewardedVideoURL": "https://files.catbox.moe/pqcn0e.mp4"
-    },
-    
-    {
-      "name": "Tzar Take Down Raydiex",
-      "packageName": "com.rayorch.tzar.shooting",
-      "targetAsin": "B0CCL8VX86",
-      "storeUrl": "https://www.amazon.com/Sniper-Strike-Force-Commando-Shooting/dp/B0CCL8VX86",
-      "rewardedVideoURL": "https://files.catbox.moe/1zqv14.mp4"
-    },
-  
+    }, 
     {
       "name": "Car Driving Simulator OL",
       "packageName": "com.dts.car.driving.simulator",
       "targetAsin": "B0GFNKG9XL",
       "storeUrl": "https://www.amazon.com/OL-Games-Driving-Simulator-Game/dp/B0GFNKG9XL",
       "rewardedVideoURL": "https://files.catbox.moe/6bmh8p.mp4"
-    },
-    {
-      "name": "Pizza Delivery Sim OL",
-      "packageName": "com.delivery.pidzaa.rydx",
-      "targetAsin": "B0GJ3BDYQ5",
-      "storeUrl": "https://www.amazon.com/Pizza-Delivery-Simulator-Food-Bike/dp/B0GJ3BDYQ5",
-      "rewardedVideoURL": "https://files.catbox.moe/pqcn0e.mp4"
-    },
-     
+    }, 
      {
       "name": "Worm Clash",
       "packageName": "com.worm.snake.clah.mm",
