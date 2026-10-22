@@ -7,6 +7,13 @@
       "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
       "rewardedVideoURL": "https://files.catbox.moe/57k2jn.mp4"
     },
+    {
+      "name": "Football MM",
+      "packageName": "com.footabll.championship.mm",
+      "targetAsin": "B0H54QLYMK",
+      "storeUrl": "https://www.amazon.com/Football-League-Soccer-Championship-Stars/dp/B0H54QLYMK",
+      "rewardedVideoURL": "https://files.catbox.moe/cz6glk.mp4"
+    },
  
      {
       "name": "Pizza Delivery Sim OL",
