@@ -1,5 +1,12 @@
 {
   "apps": [
+{
+      "name": "Bike Wheelie",
+      "packageName": "com.bike.wheeling.racing.master.dts",
+      "targetAsin": "B0GMJNQHKY",
+      "storeUrl": "https://www.amazon.com/Bike-Wheelie-Stunt-Rider-Extreme/dp/B0GMJNQHKY",
+      "rewardedVideoURL": "https://files.catbox.moe/kqeb9s.mp4"
+    },
     {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
